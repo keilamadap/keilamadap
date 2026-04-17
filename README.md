@@ -1,28 +1,17 @@
 
 :brazil: 
 
-Olá! 👋
+Hey there! 👋
 
+I'm Keila, a Front-End Engineer since 2022, building production-grade web applications.
 
-Desenvolvedora Frontend com experiência em projetos para clientes nacionais, especializada no aprimoramento de sistemas internos e na melhoria contínua dos processos de negócio. 
-Possuo foco no desenvolvimento web utilizando JavaScript, TypeScript, React.js e NextJS. 
-Para garantir a qualidade, manutenção e escalabilidade do código faço uso de testes unitários com React Testing Library e Jest, e gosto de me aventurar na criação de documentações técnicas utilizando ferramentas como Writerside da JetBrains para documentar regras de negócio e funcionalidades essenciais do sistema.
+I specialize in React, TypeScript, and Next.js, with experience delivering scalable, performant, and user-focused interfaces. I’ve worked on refactoring legacy code, improving performance, SEO, and maintainability while reducing technical debt.
 
+I also have experience with testing (React Testing Library, Jest), UI libraries like Material UI and Tailwind, and collaborating closely with design and backend teams to build consistent and reliable products.
+<br />
 
-
-<div style="display: inline-block"><br>
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;-&nbsp;
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    &nbsp;-&nbsp;
-  <img align="center" alt="React" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">-
-  <img align="center" alt="Node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    &nbsp;-&nbsp;
-  <img align="center" alt="SASS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-    &nbsp;-&nbsp;
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    
-</div><br><br>
+Want to collaborate or chat about projects? Reach me at my email <br />keila.amadap@hotmail.com
+<br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keilamadap&theme=dark)](https://git.io/streak-stats)
 
