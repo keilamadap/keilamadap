@@ -13,7 +13,5 @@ I also have experience with testing (React Testing Library, Jest), UI libraries 
 Want to collaborate or chat about projects? Reach me at my email <br />keila.amadap@hotmail.com
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keilamadap&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keilamadap&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
